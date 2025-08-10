@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+/* Colores de los botes (puedes ajustar) */
+.text-organico {
+    color: #2e7d32; /* verde */
+    font-weight: bold;
+}
+
+.text-plastico {
+    color: #1565c0; /* azul */
+    font-weight: bold;
+}
+
+.text-reciclable {
+    color: #fbc02d; /* amarillo */
+    font-weight: bold;
+}
+
+.text-otros {
+    color: #212121; /* negro */
+    font-weight: bold;
+}
