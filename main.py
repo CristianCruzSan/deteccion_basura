@@ -6,7 +6,7 @@ from ultralytics import YOLO
 import shutil
 import uuid
 import os
-
+#version 2
 app = FastAPI()
 
 # Montar carpetas estáticas y templates
